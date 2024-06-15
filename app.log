@@ -1,0 +1,4 @@
+INFO:__main__:Loading pre-trained model...
+INFO:__main__:Running simulation with airbag timing: 0.5 seconds
+INFO:__main__:Running simulation with airbag timing: 1.0 seconds
+INFO:__main__:Running simulation with airbag timing: 1.5 seconds
